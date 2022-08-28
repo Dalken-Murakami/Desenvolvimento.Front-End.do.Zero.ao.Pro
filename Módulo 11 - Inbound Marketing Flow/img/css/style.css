@@ -125,3 +125,9 @@ footer small {
     display: block;
 
 }
+
+
+
+.cog-branding--minimal {
+    visibility: hidden !important;
+}
